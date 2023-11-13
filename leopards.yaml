@@ -1,8 +1,19 @@
 team: Leopards
 
+<<<<<<< HEAD
 manger: Nora
 
 members:
 -Linda
 -William
 -David
+=======
+manager: Nora
+
+coach: Oscar
+
+members:
+- Linda
+- William
+- David
+>>>>>>> add-coach
